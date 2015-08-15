@@ -1,0 +1,24 @@
+{
+  "name": "form-serialize",
+  "version": "0.1.0",
+  "description": "Serialize a form to JSON",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashaffer/form-serialize"
+  },
+  "keywords": [
+    "serialize",
+    "form",
+    "json"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashaffer/form-serialize/issues"
+  },
+  "homepage": "https://github.com/ashaffer/form-serialize"
+}
