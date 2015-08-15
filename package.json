@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/ashaffer/form-serialize/issues"
   },
-  "homepage": "https://github.com/ashaffer/form-serialize"
+  "homepage": "https://github.com/ashaffer/form-serialize",
+  "dependencies": {
+    "form-elements": "git://github.com/ashaffer/form-elements",
+    "squares": "^0.2.1",
+    "yields-submittable": "git://github.com/npmcomponent/yields-submittable"
+  }
 }
